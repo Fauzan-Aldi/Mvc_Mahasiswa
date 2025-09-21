@@ -47,11 +47,11 @@ CREATE TABLE IF NOT EXISTS `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`id`, `nim`, `nama`, `email`, `jurusan`, `fakultas`, `created_at`, `updated_at`) VALUES
-(6, '2301020090', 'Rizki Wardani', 'rizkiwardani@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:07:53', '2025-09-17 07:07:53'),
-(7, '2301020124', 'Muhammad Ridho Faizal', 'ridho@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:08:49', '2025-09-17 07:08:49'),
-(8, '2301020093', 'Roy Adiyta', 'royadiyta@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:11:16', '2025-09-17 07:11:16'),
-(9, '2301020095', 'Rara Anjali Apsarini', 'raraanjaliapsarini@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:12:14', '2025-09-17 07:12:14'),
-(10, '2201020130', 'Grayesi Silitonga', 'grayesi.silitonga@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:13:07', '2025-09-17 08:39:29');
+(6, '2301020022', 'Fauzan Aldi', 'fauzanaldi139@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:07:53', '2025-09-17 07:07:53'),
+(7, '2301020124', 'Andi Kevin ', 'Andi@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:08:49', '2025-09-17 07:08:49'),
+(8, '2301020093', 'Fikri', 'fikri@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:11:16', '2025-09-17 07:11:16'),
+(9, '2301020095', 'Renda', 'renda@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:12:14', '2025-09-17 07:12:14'),
+(10, '2201020130', 'Aspin', 'Aspin@gmail.com', 'Teknik Informatika', 'Fakultas Teknik', '2025-09-17 07:13:07', '2025-09-17 08:39:29');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
